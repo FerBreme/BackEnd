@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Anillo",
+        "description": "Anillo de plata con grabado interno",
+        "thumbnail": "Imagen no encontrada",
+        "price": "$3500",
+        "stock": "10 unidades",
+        "code": "CO001"
+    },
+    {
+        "id": 2,
+        "title": "reloj",
+        "description": "Reloj pulsera con tiras de jean y ebilla de 1cm",
+        "thumbnail": "imagen1.jpg",
+        "price": "$4500",
+        "stock": "5 unidades",
+        "code": "CO002"
+    }
+]
